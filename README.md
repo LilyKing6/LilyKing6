@@ -1,14 +1,8 @@
-# 你好，我是Lily King😉
+# Hi, I'm Lily King😉
 
-
-
-一名大三学生，正在自学计算机（非科班🥹）。
-
-我熟悉 C++开发，了解Java开发，正在积累技术能力，日常活动是写写代码、玩玩小游戏、上网冲浪，梦想是做系统架构师。
-
-我在很久之前开始学习做网站和编程技术，这是我学习IT的开始。一直到现在
-
-I'm a HNUST man！目前正在湖南科技大学就读，随时等待各路大佬同学前来技术交流和扩列awa，随缘
+A colledge student from China. I'm a HNUST man！
+📝 I regularly write articles on https://lilyking.top
+💬 I'm a C++ man.
 
 QQ：1921033794
 
