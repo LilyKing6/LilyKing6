@@ -6,8 +6,6 @@ A colledge student from China. I'm a HNUST man！
 📝 I regularly write articles on https://lilyking.top
 
 
-💬 I'm a C++ man.
-
 QQ：1921033794
 
 ![img](https://dl4.weshineapp.com/gif/20220603/ae4e2f0280def47eefed117785687af1.gif?f=micro_54uX5aS0)
