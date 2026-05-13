@@ -1,26 +1,50 @@
-# 你好，我是Lily King
+# Hi, I'm Lily King 👋
 
-我是一名学生。IT爱好者，业余爱好。
+> 🎓 Student · IT Enthusiast · Lifelong Learner
 
-我比较熟悉后端和客户端开发。对前端开发有一点了解。由于时间有限，技术不那么成熟，现在正在积累技术能力。
+I'm passionate about backend and desktop development, with some frontend experience. Always exploring and building my technical skills one project at a time.
 
+---
 
-📝 I regularly write articles on https://lilyking.top
+## 🛠️ Tech Stack
 
+**Languages & Frameworks**
 
-QQ：1921033794
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white)
 
-![img](https://dl4.weshineapp.com/gif/20220603/ae4e2f0280def47eefed117785687af1.gif?f=micro_54uX5aS0)
+**Tools & Platforms**
 
-## 技术栈
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=ffffff)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+---
 
- [![CPP](https://camo.githubusercontent.com/c0af722e73684f44e8daf707c4df1e38bd59eb732ebd70a43878ae03eff442f7/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6370702c632c71742c636d616b652c6f70656e63762c707974686f6e2c6a732c6769742c6769746875622c6c696e75782c77696e646f77732c6170706c652c7673636f64652c76697375616c73747564696f2c646f636b6572)](https://camo.githubusercontent.com/2b0671214697b81c8193c091c041498ea8cdb7a7d341dba17867776d6177fea7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4350502d3563386462633f7374796c653d666c61742d737175617265266c6f676f3d63706c7573706c7573266c6f676f436f6c6f723d666666)  
+## 📝 Blog
 
-![C++](https://camo.githubusercontent.com/6ded40682ac3fe3883d76484b57c7c82aa294e360ae3fe1526eec0b09deb33b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532422532422d3030353939433f7374796c653d666c6174266c6f676f3d63706c7573706c7573266c6f676f436f6c6f723d7768697465)![Qt](https://camo.githubusercontent.com/d52e0b7bc25932ce23593922e7411841c615dfb9d772561414276c7045dfd6f9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f51742d3431434435323f7374796c653d666c6174266c6f676f3d7174266c6f676f436f6c6f723d7768697465)![CMake](https://camo.githubusercontent.com/cd996144a401a14eb5f5b788f24050511e876ea6c7e6ec858a10e306a822b1d6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f434d616b652d3036344638433f7374796c653d666c6174266c6f676f3d636d616b65266c6f676f436f6c6f723d7768697465)![Python](https://camo.githubusercontent.com/5b139a7e47cbc7cdb1961c11d22f38e524e3b110f77ca9d2352793c5ed257f9d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)![OpenGL](https://camo.githubusercontent.com/fd576112e1d7850b76bc658950d66993b32064afa0f2c5a0a777780275b0e7fb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f70656e474c2d3535383641343f7374796c653d666c6174266c6f676f3d6f70656e676c266c6f676f436f6c6f723d7768697465)
+I write about tech and development on my blog: **[lilyking.top](https://lilyking.top)**
 
-![Arch Linux Badge](https://camo.githubusercontent.com/349a7b6e16b4d5dee76c958370d9d88477833ed42db14cc966051858309e547d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417263682532304c696e75782d3137393344313f7374796c653d666c61742d737175617265266c6f676f3d617263686c696e7578266c6f676f436f6c6f723d666666666666)![Visual Studio Code Badge](https://camo.githubusercontent.com/06592f79211a589e50a103cb79fddf7d2eedcca0778444c5d18ec3d602f61385/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3939333346463f7374796c653d666c61742d737175617265266c6f676f436f6c6f723d7768697465)
+---
 
+## 📫 Contact
 
+- **QQ:** 1921033794
+- **Blog:** [lilyking.top](https://lilyking.top)
 
-![img](https://dl4.weshineapp.com/gif/20221107/98ddf77f4481b25932307c2a419ab029.gif?f=micro_54uX5aS0)
+---
+
+## 📊 GitHub Stats
+
+![Lily King's GitHub stats](https://github-readme-stats.vercel.app/api?username=LilyKing6&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LilyKing6&layout=compact&theme=tokyonight)
+
+---
+
+⭐️ From [LilyKing6](https://github.com/LilyKing6)
